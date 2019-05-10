@@ -1,2 +1,3 @@
 # hello-world
 First repository!
+Had snails today! Wish I can find my mentor soon...
